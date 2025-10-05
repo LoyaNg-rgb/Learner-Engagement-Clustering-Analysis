@@ -163,7 +163,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Loyanganba Ngathem** - (https://github.com/LoyaNg-rgb)
 
 ## 🙏 Acknowledgments
 
@@ -173,7 +173,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-For questions or feedback, please open an issue or contact: your.email@example.com
+For questions or feedback, please open an issue or contact: loyanganba.ngathem@gmail.com
 
 ## 🗺️ Roadmap
 

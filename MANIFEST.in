@@ -1,0 +1,51 @@
+# Include documentation files
+include README.md
+include LICENSE
+include CHANGELOG.md
+include CONTRIBUTING.md
+include CODE_OF_CONDUCT.md
+include SETUP.md
+include QUICKSTART.md
+include PROJECT_SUMMARY.md
+include GITHUB_READY_CHECKLIST.md
+
+# Include requirements files
+include requirements.txt
+include requirements-dev.txt
+
+# Include all documentation
+recursive-include docs *.md
+recursive-include docs *.rst
+recursive-include docs *.txt
+
+# Include GitHub configuration
+recursive-include .github *.md
+recursive-include .github *.yml
+
+# Include test files (for source distributions)
+recursive-include tests *.py
+
+# Exclude compiled Python files
+global-exclude *.pyc
+global-exclude *.pyo
+global-exclude __pycache__
+global-exclude .DS_Store
+
+# Exclude build artifacts
+global-exclude *.so
+global-exclude *.egg-info
+
+# Exclude version control
+global-exclude .git*
+
+# Exclude IDE files
+global-exclude .vscode
+global-exclude .idea
+global-exclude *.swp
+global-exclude *.swo
+
+# Exclude output files
+exclude *.png
+exclude *.csv
+recursive-exclude outputs *
+recursive-exclude attached_assets *.csv

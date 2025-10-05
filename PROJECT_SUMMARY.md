@@ -410,9 +410,9 @@ If using this project in research, please cite:
 ```bibtex
 @software{learner_clustering_2025,
   title={Learner Engagement Clustering Analysis},
-  author={Your Name},
+  author={Loyanganba Ngathem},
   year={2025},
-  url={https://github.com/yourusername/learner-engagement-clustering},
+  url={https://github.com/LoyaNg-rgb/learner-engagement-clustering},
   version={1.0.0}
 }
 ```
@@ -531,11 +531,11 @@ black src/
 
 ## Contact Information
 
-**Project Maintainer**: [Your Name]  
-**Email**: your.email@example.com  
-**GitHub**: https://github.com/yourusername/learner-engagement-clustering  
-**Issues**: https://github.com/yourusername/learner-engagement-clustering/issues  
-**Discussions**: https://github.com/yourusername/learner-engagement-clustering/discussions
+**Project Maintainer**: [Loyanganba Ngathem]  
+**Email**: loyanganba.ngathem@gmail.com  
+**GitHub**: https://github.com/LoyaNg-rgb/learner-engagement-clustering  
+**Issues**: https://github.com/LoyaNg-rgb/learner-engagement-clustering/issues  
+**Discussions**: https://github.com/LoyaNg-rgb/learner-engagement-clustering/discussions
 
 ---
 
